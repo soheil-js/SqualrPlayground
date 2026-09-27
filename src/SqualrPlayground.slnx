@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MemoryReader/MemoryReader.csproj" />
+  <Project Path="MemoryTarget/MemoryTarget.csproj" />
+</Solution>
